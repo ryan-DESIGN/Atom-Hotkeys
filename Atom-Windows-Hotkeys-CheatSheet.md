@@ -15,98 +15,98 @@
 
 
 #### FILE
-ADD PROJECT FOLDER                                   `CTRL SHIFT a`
-REOPEN LAST ITEM                                        `CTRL SHIFT t`
-SETTINGS                                                `CTRL ,`
-TREE VIEW - ADD FILE	       ***UNLISTED***      	                  	          `a`
-TREE VIEW - MOVE FILE 	           ***UNLISTED***  	                  	          `m`
++ ADD PROJECT FOLDER                                   `CTRL SHIFT a`
++ REOPEN LAST ITEM                                        `CTRL SHIFT t`
++ SETTINGS                                                `CTRL ,`
++ TREE VIEW - ADD FILE	       *UNLISTED*     	                  	          `a`
++ TREE VIEW - MOVE FILE 	           *UNLISTED* 	                  	          `m`
 
 #### EDIT
-COPY PATH                                               `CTRL SHIFT c`
-TOGGLE LINE/SELECTION AS COMMENT                           `CTRL /`
-REFLOW SELECTION                                           `CTRL SHIFT q`
-SELECT ENCODING                                          `CTRL SHIFT u`
-GO TO LINE NUMBER                                                `CTRL g`
-GO TO TOP                                               `CTRL home`
-SELECT GRAMMAR                                            `CTRL SHIFT l`
++ COPY PATH                                               `CTRL SHIFT c`
++ TOGGLE LINE/SELECTION AS COMMENT                           `CTRL /`
++ REFLOW SELECTION                                           `CTRL SHIFT q`
++ SELECT ENCODING                                          `CTRL SHIFT u`
++ GO TO LINE NUMBER                                                `CTRL g`
++ GO TO TOP                                               `CTRL home`
++ SELECT GRAMMAR                                            `CTRL SHIFT l`
 
 #### EDIT -> LINES
-INDENT                                                            `CTRL ]`
-OUTDENT                                                           `CTRL [`
-MOVE LINE UP                                                        `CTRL up`
-MOVE LINE DOWN                                                      `CTRL down`
-DUPLICATE LINE                                          `CTRL SHIFT d`
-JOIN LINES                                                `CTRL j`
++ INDENT                                                            `CTRL ]`
++ OUTDENT                                                           `CTRL [`
++ MOVE LINE UP                                                        `CTRL up`
++ MOVE LINE DOWN                                                      `CTRL down`
++ DUPLICATE LINE                                          `CTRL SHIFT d`
++ JOIN LINES                                                `CTRL j`
 #### EDIT -> COLUMNS
-MOVE SELECTION LEFT                                       `ALT SHIFT left`
-MOVE SELECTION RIGHT                                        `ALT SHIFT right`
++ MOVE SELECTION LEFT                                       `ALT SHIFT left`
++ MOVE SELECTION RIGHT                                        `ALT SHIFT right`
 #### EDIT -> TEXT
-DELETE TO END OF WORD             	                  	`CTRL delete`
-DELETE LINE                                             `CTRL SHIFT k`
++ DELETE TO END OF WORD             	                  	`CTRL delete`
++ DELETE LINE                                             `CTRL SHIFT k`
 #### EDIT -> FOLDING
-Fold Code             	                  	            `CTRL ALT [`
-Unfold Code             	                  	          `CTRL ALT ]`
++ Fold Code             	                  	            `CTRL ALT [`
++ Unfold Code             	                  	          `CTRL ALT ]`
 #### EDIT -> BOOKMARK
-VIEW ALL BOOKMARKS                                         `CTRL f2`
-TOGGLE BOOKMARK                                        `ALT CTRL f2`
-JUMP TO NEXT BOOKMARK                                    `f2`
-JUMP TO PREVIOUS BOOKMARK                              `SHIFT f2`
++ VIEW ALL BOOKMARKS                                         `CTRL f2`
++ TOGGLE BOOKMARK                                        `ALT CTRL f2`
++ JUMP TO NEXT BOOKMARK                                    `f2`
++ JUMP TO PREVIOUS BOOKMARK                              `SHIFT f2`
 
 #### VIEW
-INCREASE FONT SIZE                                           `CTRL SHIFT =`
-DECREASE FONT SIZE                                           `CTRL SHIFT -`
-RESET FONT SIZE                                          `CTRL 0`
-TOGGLE COMMAND PALETTE                                    `CTRL SHIFT P`
-TOGGLE TREE VIEW                                           `CTRL \`
-SHOW CURRENT FILE IN TREE VIEW ***UNLISTED***              `CTRL SHIFT \`
++ INCREASE FONT SIZE                                           `CTRL SHIFT =`
++ DECREASE FONT SIZE                                           `CTRL SHIFT -`
++ RESET FONT SIZE                                          `CTRL 0`
++ TOGGLE COMMAND PALETTE                                    `CTRL SHIFT P`
++ TOGGLE TREE VIEW                                           `CTRL \`
++ SHOW CURRENT FILE IN TREE VIEW *UNLISTED*             `CTRL SHIFT \`
 
 
 #### VIEW -> DEVELOPER
-RELOAD WINDOW                                          `CTRL SHIFT f5`
-RUN PACKAGE SPECS                                          `CTRL SHIFT y`
-TOGGLE DEV TOOLS                                           `CTRL SHIFT i`
++ RELOAD WINDOW                                          `CTRL SHIFT f5`
++ RUN PACKAGE SPECS                                          `CTRL SHIFT y`
++ TOGGLE DEV TOOLS                                           `CTRL SHIFT i`
 
 #### SELECTION
-ADD ABOVE   ***MESSES WITH WINDOWS DISPLAY ORIENTATION***     `ALT CTRL up`
-ADD BELOW  ***MESSES WITH WINDOWS DISPLAY ORIENTATION***      `ALT CTRL down`
-TO TOP       ***POINTLESS***                             `CTRL SHIFT home`
-TO BOTTOM                   ***POINTLESS***              `CTRL SHIFT end`
-SELECT LINE                                               `CTRL l`
-SELECT TO END                                          `SHIFT end`
-SELECT TO HOME                                          `SHIFT home`
-SELECT PRECEDING LETTERS                                 `CTRL SHIFT left`
-SELECT FOLLOWING LETTERS                                 `CTRL SHIFT right`
-PREVIOUS SELECTION                                    `CTRL u`
++ ADD ABOVE   *MESSES WITH WINDOWS DISPLAY ORIENTATION*     `ALT CTRL up`
++ ADD BELOW  *MESSES WITH WINDOWS DISPLAY ORIENTATION*      `ALT CTRL down`
++ TO TOP       *POINTLESS*                             `CTRL SHIFT home`
++ TO BOTTOM                   *POINTLESS*              `CTRL SHIFT end`
++ SELECT LINE                                               `CTRL l`
++ SELECT TO END                                          `SHIFT end`
++ SELECT TO HOME                                          `SHIFT home`
++ SELECT PRECEDING LETTERS                                 `CTRL SHIFT left`
++ SELECT FOLLOWING LETTERS                                 `CTRL SHIFT right`
++ PREVIOUS SELECTION                                    `CTRL u`
 
 
 #### FIND/REPLACE
-FIND IN BUFFER                                          `CTRL f`
-FIND IN PROJECT                                          `CTRL SHIFT f`
-FIND NEXT                                          `f3`
-ADD NEXT TO SELECTION                                          `CTRL d`
-ADD ALL TO SELECTION                                          `ALT f3`
++ FIND IN BUFFER                                          `CTRL f`
++ FIND IN PROJECT                                          `CTRL SHIFT f`
++ FIND NEXT                                          `f3`
++ ADD NEXT TO SELECTION                                          `CTRL d`
++ ADD ALL TO SELECTION                                          `ALT f3`
 ### FIND SEARCHBOX
-FIND BUFFER/OPEN FILE                                          `CTRL b`
-FIND FILE                                          `CTRL p`
-FIND MODIFIED/UNTRACKED FILE (git)                           `CTRL SHIFT b`
-FUZZY SEARCH      ***UNLISTED***        	                       `CTRL t`
-FIND SYMBOL             	                        `CTRL r`
-FIND SYMBOL IN PROJECT                      `CTRL SHIFT r`
++ FIND BUFFER/OPEN FILE                                          `CTRL b`
++ FIND FILE                                          `CTRL p`
++ FIND MODIFIED/UNTRACKED FILE (git)                           `CTRL SHIFT b`
++ FUZZY SEARCH      *UNLISTED*       	                       `CTRL t`
++ FIND SYMBOL             	                        `CTRL r`
++ FIND SYMBOL IN PROJECT                      `CTRL SHIFT r`
 
 
 
 
 
-#### HOTKEYS THAT EXIST ON MAC, YOU POOR SAP
+#### HOTKEYS THAT ONLY EXIST ON MAC, YOU POOR SAP
 Fold at Indentation Level (n)                           `⌘k ⌘(n)`
-Fold Selected Text             	                  	    `⌥⌘⌃f`
-Unfold All Code             	                  	      `⌥⌘}`
-Go to Matching Bracket             	                  	`⌃m`
-Toggle Autocomplete             	                  	  `⌃space`
-Clear All Bookmarks             	                      `⌘⇧F2`
-Delete to Beginning of Word             	              `⌥⌫`
+Fold Selected Text             	                  	    `⌥⌘⌃f`    
+Unfold All Code             	                  	      `⌥⌘}`    
+Go to Matching Bracket             	                  	`⌃m`    
+Toggle Autocomplete             	                  	  `⌃space`  
+Clear All Bookmarks             	                      `⌘⇧F2`  
+Delete to Beginning of Word             	              `⌥⌫`  
 Cut to End of Line             	                  	    `⌃k`
-Move to Beginning of Word             	                `⌥b`
+Move to Beginning of Word             	                `  ⌥b`
 Move to End of Word             	                  	  `⌥f`
 Move to Beginning of Line             	                `⌃a`
 Move to End of Line             	                  	  `⌃e`
