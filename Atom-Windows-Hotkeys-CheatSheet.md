@@ -1,22 +1,75 @@
-### FILE  
 ---
-ADD PROJECT FOLDER  |  `CTRL SHIFT a`    |  
-REOPEN LAST ITEM  |  `CTRL SHIFT t`  |  
-SETTINGS  |  `CTRL ,`  |  
-TREE VIEW - ADD FILE  |  `a`  |     *~~UNLISTED~~*  
-TREE VIEW - MOVE FILE  |  `m`  |     *~~UNLISTED~~*
-
+<table>
+  <th>FILE</th>
+  <tr>
+    <td>ADD PROJECT FOLDER</td>
+    <td>`CTRL SHIFT a`</td>
+    <td>*...*</td>
+  </tr>
+  <tr>
+    <td>REOPEN LAST ITEM</td>
+    <td>`CTRL SHIFT t`</td>
+    <td>*...*</td>
+  </tr>
+  <tr>
+    <td>SETTINGS</td>
+    <td>`CTRL ,`</td>
+    <td>*...*</td>
+  </tr>
+  <tr>
+    <td>TREE VIEW - ADD FILE</td>
+    <td>`a`</td>
+    <td>*UNLISTED*</td>
+  </tr>
+  <tr>
+    <td>TREE VIEW - MOVE FILE</td>
+    <td>`m`</td>
+    <td>*UNLISTED*</td>
+  </tr>
+</table>
 ---
+<table>
+  <th>EDIT<th>
+  <tr>
+    <td>COPY PATH</td>
+    <td>`CTRL SHIFT c`</td>
+    <td>*...*</td>
+  </tr>
+  <tr>
+    <td>TOGGLE LINE/SELECTION AS COMMENT</td>
+    <td>`CTRL /`</td>
+    <td>*...*</td>
+  </tr>
+  <tr>
+    <td>REFLOW SELECTION</td>
+    <td>`CTRL SHIFT q`</td>
+    <td>*...*</td>
+  </tr>
+  <tr>
+    <td>SELECT ENCODING</td>
+    <td>`CTRL SHIFT u`</td>
+    <td>*...*</td>
+  </tr>
+  <tr>
+    <td>GO TO LINE NUMBER</td>
+    <td>`CTRL g`</td>
+    <td>*...*</td>
+  </tr>
+  <tr>
+    <td>GO TO TOP</td>
+    <td>`CTRL home`</td>
+    <td>*...*</td>
+  </tr>
+  <tr>
+    <td>SELECT GRAMMAR</td>
+    <td>`CTRL SHIFT l`</td>
+    <td>*...*</td>
+  </tr>
+  <th>EDIT -> LINES</th>
+</table>
 
-### EDIT  
-COPY PATH  |  `CTRL SHIFT c`    |  
-TOGGLE LINE/SELECTION AS COMMENT  |  `CTRL /`    |  
-REFLOW SELECTION  |  `CTRL SHIFT q`    |  
-SELECT ENCODING  |  `CTRL SHIFT u`    |  
-GO TO LINE NUMBER  |  `CTRL g`    |  
-GO TO TOP  |  `CTRL home`    |  
-SELECT GRAMMAR  |  `CTRL SHIFT l`  |    
-##### EDIT -> LINES  
+
+
 INDENT  |  `CTRL ]`    |  
 OUTDENT  |  `CTRL [`    |  
 MOVE LINE UP  |  `CTRL up`   |   
