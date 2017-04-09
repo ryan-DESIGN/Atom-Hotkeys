@@ -18,8 +18,8 @@
 + ADD PROJECT FOLDER                                   `CTRL SHIFT a`
 + REOPEN LAST ITEM                                        `CTRL SHIFT t`
 + SETTINGS                                                `CTRL ,`
-+ TREE VIEW - ADD FILE	       *UNLISTED*     	                  	          `a`
-+ TREE VIEW - MOVE FILE 	           *UNLISTED* 	                  	          `m`
++ TREE VIEW - ADD FILE	       *~~UNLISTED*~~     	                  	          `a`
++ TREE VIEW - MOVE FILE 	           *~~UNLISTED*~~ 	                  	          `m`
 
 #### EDIT
 + COPY PATH                                               `CTRL SHIFT c`
@@ -58,7 +58,7 @@
 + RESET FONT SIZE                                          `CTRL 0`
 + TOGGLE COMMAND PALETTE                                    `CTRL SHIFT P`
 + TOGGLE TREE VIEW                                           `CTRL \`
-+ SHOW CURRENT FILE IN TREE VIEW *UNLISTED*             `CTRL SHIFT \`
++ SHOW CURRENT FILE IN TREE VIEW *~~UNLISTED*~~             `CTRL SHIFT \`
 
 
 #### VIEW -> DEVELOPER
@@ -67,10 +67,10 @@
 + TOGGLE DEV TOOLS                                           `CTRL SHIFT i`
 
 #### SELECTION
-+ ADD ABOVE   *MESSES WITH WINDOWS DISPLAY ORIENTATION*     `ALT CTRL up`
-+ ADD BELOW  *MESSES WITH WINDOWS DISPLAY ORIENTATION*      `ALT CTRL down`
-+ TO TOP       *POINTLESS*                             `CTRL SHIFT home`
-+ TO BOTTOM                   *POINTLESS*              `CTRL SHIFT end`
++ ADD ABOVE   *~~MESSES WITH WINDOWS DISPLAY ORIENTATION*~~     `ALT CTRL up`
++ ADD BELOW  *~~MESSES WITH WINDOWS DISPLAY ORIENTATION*~~      `ALT CTRL down`
++ TO TOP       *~~POINTLESS*~~                             `CTRL SHIFT home`
++ TO BOTTOM                   *~~POINTLESS*~~              `CTRL SHIFT end`
 + SELECT LINE                                               `CTRL l`
 + SELECT TO END                                          `SHIFT end`
 + SELECT TO HOME                                          `SHIFT home`
@@ -89,7 +89,7 @@
 + FIND BUFFER/OPEN FILE                                          `CTRL b`
 + FIND FILE                                          `CTRL p`
 + FIND MODIFIED/UNTRACKED FILE (git)                           `CTRL SHIFT b`
-+ FUZZY SEARCH      *UNLISTED*       	                       `CTRL t`
++ FUZZY SEARCH      *~~UNLISTED*~~       	                       `CTRL t`
 + FIND SYMBOL             	                        `CTRL r`
 + FIND SYMBOL IN PROJECT                      `CTRL SHIFT r`
 
