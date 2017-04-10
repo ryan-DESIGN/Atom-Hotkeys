@@ -192,12 +192,12 @@
   </tr>
   <tr>
     <td style="border: 1px solid red;width:30vw;height:3em;padding:0.5em;">TOGGLE TREE VIEW</td>
-    <td style="border: 1px solid red;width:30vw;height:3em;padding:0.5em;">CTRL \\</td>
+    <td style="border: 1px solid red;width:30vw;height:3em;padding:0.5em;">CTRL \</td>
     <td style="border: 1px solid red;width:30vw;height:3em;padding:0.5em;"></td>
   </tr>
   <tr>
     <td style="border: 1px solid red;width:30vw;height:3em;padding:0.5em;">SHOW CURRENT FILE IN TREE VIEW</td>
-    <td style="border: 1px solid red;width:30vw;height:3em;padding:0.5em;">CTRL SHIFT \\</td>
+    <td style="border: 1px solid red;width:30vw;height:3em;padding:0.5em;">CTRL SHIFT \</td>
     <td style="border: 1px solid red;width:30vw;height:3em;padding:0.5em;">unlisted</td>
   </tr>
 </table>
