@@ -18,12 +18,12 @@
   <tr>
     <td>TREE VIEW - ADD FILE</td>
     <td>a</td>
-    <td>*UNLISTED*</td>
+    <td>unlisted</td>
   </tr>
   <tr>
     <td>TREE VIEW - MOVE FILE</td>
     <td>m</td>
-    <td>*UNLISTED*</td>
+    <td>unlisted</td>
   </tr>
 </table>
 
@@ -66,7 +66,7 @@
   </tr>
 </table>
 
-<h2>EDIT -> LINES</h2>
+<h3>EDIT -> LINES</h3>
 <table>
   <tr>
     <td>INDENT</td>
@@ -100,7 +100,7 @@
   </tr>
 </table>
 
-<h2>EDIT -> COLUMNS</h2>
+<h3>EDIT -> COLUMNS</h3>
 <table>
   <tr>
     <td>MOVE SELECTION LEFT</td>
@@ -114,7 +114,7 @@
   </tr>
 </table>
 
-<h2>EDIT -> TEXT</h2>
+<h3>EDIT -> TEXT</h3>
 <table>
   <tr>
     <td>DELETE TO END OF WORD</td>
@@ -128,7 +128,7 @@
   </tr>
 </table>
 
-<h2>EDIT -> FOLDING</h2>
+<h3>EDIT -> FOLDING</h3>
 <table>
   <tr>
     <td>FOLD CODE</td>
@@ -142,7 +142,7 @@
   </tr>
 </table>  
 
-<h2>EDIT -> BOOKMARK</h2>
+<h3>EDIT -> BOOKMARK</h3>
 <table>
   <tr>
     <td>VIEW ALL BOOKMARKS</td>
@@ -196,11 +196,11 @@
   <tr>
     <td>SHOW CURRENT FILE IN TREE VIEW</td>
     <td>CTRL SHIFT \\</td>
-    <td>UNLISTED</td>
+    <td>unlisted</td>
   </tr>
 </table>
 
-<h2>VIEW -> DEVELOPER</h2>
+<h3>VIEW -> DEVELOPER</h3>
 <table>
   <tr>
     <td>RELOAD WINDOW</td>
@@ -224,12 +224,12 @@
   <tr>
     <td>ADD ABOVE</td>
     <td>ALT CTRL up</td>
-    <td>MESSES WITH WINDOWS DISPLAY ORIENTATION</td>
+    <td>overridden by Windows' display orientation hotkey</td>
   </tr>
   <tr>
     <td>ADD BELOW</td>
     <td>ALT CTRL down</td>
-    <td>MESSES WITH WINDOWS DISPLAY ORIENTATION</td>
+    <td>overridden by Windows' display orientation hotkey</td>
   </tr>
   <tr>
     <td>TO TOP</td>
@@ -327,7 +327,7 @@
   <tr>
     <td>FUZZY SEARCH</td>
     <td>CTRL t</td>
-    <td>UNLISTED</td>
+    <td>unlisted</td>
   </tr>
   <tr>
     <td>FIND SYMBOL</td>
