@@ -1,5 +1,5 @@
 <h1>FILE</h1>
-<table>
+<table style="width:100%;">
   <tr>
     <td>ADD PROJECT FOLDER</td>
     <td>CTRL SHIFT a</td>
@@ -28,7 +28,7 @@
 </table>
 
 <h1>EDIT</h1>
-<table>
+<table style="width:100%;">
   <tr>
     <td>COPY PATH</td>
     <td>CTRL SHIFT c</td>
@@ -67,7 +67,7 @@
 </table>
 
 <h3>EDIT -> LINES</h3>
-<table>
+<table style="width:100%;">
   <tr>
     <td>INDENT</td>
     <td>CTRL ]</td>
@@ -101,7 +101,7 @@
 </table>
 
 <h3>EDIT -> COLUMNS</h3>
-<table>
+<table style="width:100%;">
   <tr>
     <td>MOVE SELECTION LEFT</td>
     <td>ALT SHIFT left</td>
@@ -115,7 +115,7 @@
 </table>
 
 <h3>EDIT -> TEXT</h3>
-<table>
+<table style="width:100%;">
   <tr>
     <td>DELETE TO END OF WORD</td>
     <td>CTRL delete</td>
@@ -129,7 +129,7 @@
 </table>
 
 <h3>EDIT -> FOLDING</h3>
-<table>
+<table style="width:100%;">
   <tr>
     <td>FOLD CODE</td>
     <td>CTRL ALT [</td>
@@ -143,7 +143,7 @@
 </table>  
 
 <h3>EDIT -> BOOKMARK</h3>
-<table>
+<table style="width:100%;">
   <tr>
     <td>VIEW ALL BOOKMARKS</td>
     <td>CTRL f2</td>
@@ -167,7 +167,7 @@
 </table>
 
 <h1>VIEW</h1>
-<table>
+<table style="width:100%;">
   <tr>
     <td>INCREASE FONT SIZE</td>
     <td>CTRL SHIFT =</td>
@@ -201,7 +201,7 @@
 </table>
 
 <h3>VIEW -> DEVELOPER</h3>
-<table>
+<table style="width:100%;">
   <tr>
     <td>RELOAD WINDOW</td>
     <td>CTRL SHIFT f5</td>
@@ -220,7 +220,7 @@
 </table>
 
 <h1>SELECTION</h1>
-<table>
+<table style="width:100%;">
   <tr>
     <td>ADD ABOVE</td>
     <td>ALT CTRL up</td>
@@ -234,12 +234,12 @@
   <tr>
     <td>TO TOP</td>
     <td>CTRL SHIFT home</td>
-    <td>POINTLESS</td>
+    <td>pointless</td>
   </tr>
   <tr>
     <td>TO BOTTOM</td>
     <td>CTRL SHIFT end</td>
-    <td>POINTLESS</td>
+    <td>pointless</td>
   </tr>
   <tr>
     <td>SELECT LINE</td>
@@ -274,7 +274,7 @@
 </table>
 
 <h1>FIND/REPLACE</h1>
-<table>
+<table style="width:100%;">
   <tr>
     <td>FIND IN BUFFER</td>
     <td>CTRL f</td>
@@ -308,7 +308,7 @@
 </table>
 
 <h1>FIND SEARCHBOX</h1>
-<table>
+<table style="width:100%;">
   <tr>
     <td>FIND BUFFER/OPEN FILE</td>
     <td>CTRL b</td>
@@ -342,7 +342,7 @@
 </table>
 
 <h1>HOTKEYS THAT ONLY EXIST ON MAC, YOU POOR SAP</h1>
-<table>
+<table style="width:100%;">
   <tr>
     <td>Fold at Indentation Level (n)</td>
     <td>⌘k ⌘(n)</td>
