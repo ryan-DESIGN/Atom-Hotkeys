@@ -1,3 +1,5 @@
+<body style="display:flex; flex-direction:column;">
+
 <h1>FILE</h1>
 <table style="width:100%;">
   <tr>
@@ -519,3 +521,5 @@
     <td></td>
   </tr>
 </table>
+
+</body>
